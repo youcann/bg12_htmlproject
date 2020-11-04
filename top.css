@@ -1,0 +1,27 @@
+body {
+background-color: #ffffdd
+}
+
+a:link { 
+font-family: Verdana;
+font-size: 18px;
+font-weight: bold;
+text-decoration: none;
+width: 250px;
+height: 30px;
+display: inline-block;
+color: #000000;
+background-color: #dddddd;
+text-align: center;
+line-height: 25px;
+border-bottom: 0px solid #fff;
+}
+
+a:visited {
+color: #6080C0;
+}
+
+a:hover {
+background-color: #D8D8FF;
+} 
+
